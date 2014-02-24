@@ -1,0 +1,6 @@
+b2.exe
+bjam.exe
+bootstrap.log
+project-config.jam
+tools/build/v2/engine/bootstrap
+tools/build/v2/engine/bin.ntx*
